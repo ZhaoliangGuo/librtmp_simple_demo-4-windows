@@ -2,15 +2,15 @@
 
 Build the librtmp in VS2010(Debug/Release/Debug64/Release64). 
 
-- librtmp
+- `librtmp`
 
   包含librtmp的源码.
   
-- lib & include
+- `lib & include`
 
   librtmp项目的编译输出.
   
-- rtmp-recevier
+- `rtmp-recevier`
 
   调用librtmp.lib的实例项目.
   
