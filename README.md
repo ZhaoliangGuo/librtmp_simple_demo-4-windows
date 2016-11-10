@@ -22,4 +22,6 @@ Build the librtmp in VS2010(Debug/Release/Debug64/Release64).
  https://slproweb.com/products/Win32OpenSSL.html
  
  https://github.com/leixiaohua1020/simplest_librtmp_example
+ 
+ http://blog.sina.com.cn/s/blog_62949ff40101efk1.html
   
